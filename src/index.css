@@ -26,13 +26,21 @@ code {
   margin-top:25%;
   font-family: 'Poppins', sans-serif;
 }
+
+/* .home-page {
+  height: 89vh;
+} */
+
+.developers {
+  height: 100vh;
+}
+
 .home-page-head button{
   padding: 8px;
   border: none;
   border-radius: 50px;
   background-color: #9c27b0;
   color: white;
-
 }
 
 .nav-link active{
@@ -41,4 +49,8 @@ code {
   color: white;
   background-color: #9c27b0;
   font-weight: 500;
+}
+
+.developers .row .col-sm-3 {
+  margin-top: 25%;
 }
