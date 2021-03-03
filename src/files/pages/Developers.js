@@ -1,5 +1,4 @@
 import DeveloperCard from "../components/DeveloperCard";
-import "../stylesheets/Developers.css";
 
 const Developers = () => {
     return ( 

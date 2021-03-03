@@ -1,5 +1,3 @@
-import "../stylesheets/HomepageHead.css";
-
 const HomepageHead = () => {
     return ( 
         <div className="home-page-head">

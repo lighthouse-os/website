@@ -1,5 +1,4 @@
 import { Card, Button } from 'react-bootstrap';
-import "../stylesheets/DeveloperCard.css";
 
 const DeveloperCard = ({who, image, content,name}) => {
     return <div className="col-sm-3 devCard">

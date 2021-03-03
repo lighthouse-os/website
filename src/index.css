@@ -55,3 +55,22 @@ code {
 .developers .row .col-sm-3 {
   margin-top: 25%;
 }
+
+.devCard {
+  margin: auto;
+}
+
+.developers__title{
+  margin-top: 5%;
+  margin-bottom: 15%;
+}
+.devRow {
+  display: flex;
+  padding-bottom: 20%;
+}
+
+.landingText {
+  text-align: start;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
