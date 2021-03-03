@@ -1,6 +1,7 @@
 import HomepageHead from "../components/HomepageHead";
 import Phone from "../components/Phone"
 import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 
 const Homepage = () => {
     return ( 
@@ -12,10 +13,11 @@ const Homepage = () => {
                     <HomepageHead />
                 </div>
                 <div className="col-sm-5">
-                    <Phone />
+                    <Phone className="phone"/>
                 </div>
             </div>
         </div>
+        <Footer/>
         </div>
      );
 }

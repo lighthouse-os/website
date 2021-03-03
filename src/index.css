@@ -28,10 +28,6 @@ code {
   text-align: start;
 }
 
-/* .home-page {
-  height: 89vh;
-} */
-
 .developers {
   height: 100vh;
 }
@@ -83,5 +79,25 @@ code {
 }
 
 .navbar {
-  margin: 15px;
+  padding: auto ;
+}
+
+.navShadow {
+  box-shadow:
+  0 10.3px 17.9px rgba(0, 0, 0, 0.069);
+  margin: 0;
+  width: 100%;
+}
+
+.footer {
+ background-color: #f9d7ff; 
+ margin: 0;
+ padding: 20px;
+ position: absolute;
+ bottom: 0;
+ width: 100%;
+}
+
+.phone {
+  margin-top: 50px !important;
 }
