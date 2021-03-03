@@ -58,11 +58,11 @@ code {
 
 .developers__title{
   margin-top: 5%;
-  margin-bottom: 15%;
+  margin-bottom: 5%;
 }
 .devRow {
   display: flex;
-  padding-bottom: 20%;
+  /* margin-bottom: 400px; */
 }
 
 .landingText {
@@ -93,7 +93,7 @@ code {
  background-color: #f9d7ff; 
  margin: 0;
  padding: 20px;
- position: absolute;
+ left: 0;
  bottom: 0;
  width: 100%;
 }
