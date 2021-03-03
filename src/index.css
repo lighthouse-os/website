@@ -36,14 +36,6 @@ code {
   height: 100vh;
 }
 
-.home-page-head button{
-  padding: 8px;
-  border: none;
-  border-radius: 50px;
-  background-color: #9c27b0;
-  color: white;
-}
-
 .nav-link active{
   border: none;
   border-radius: 40px;
@@ -88,4 +80,8 @@ code {
   margin: 20px;
   margin-top: 50px;
   margin-bottom: 50px;
+}
+
+.navbar {
+  margin: 15px;
 }
