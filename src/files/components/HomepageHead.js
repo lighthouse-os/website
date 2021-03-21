@@ -8,8 +8,8 @@ const HomepageHead = () => {
                 <h5>With most simplistic</h5>
                 <h5>yet aesthetic feel</h5>
                 <h5>Staying close to AOSP</h5>
+            <Button variant="primary" className="homepageBtn">Know more</Button>
             </div>
-            <Button variant="primary">Know more</Button>
         </div>
      );
 }
